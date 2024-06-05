@@ -1,7 +1,14 @@
-## Boas vindas ao meu perfil 
-![image](https://github.com/caiorossetto/caiorossetto/assets/126481668/7267e92b-3bad-4639-bd17-d8ba195d4b81)
-👋
+## Bem vindos 
+![image](https://github.com/caiorossetto/caiorossetto/assets/126481668/53a054cb-c185-4573-a74f-60714c944e24)
 
+ Meu nome é Caio Rossetto
+ - Estou estudando na Alura
+ - Estou me desenvolvendo na linguagem JavaScript
+ - Utilizo esse espaço para minha organização e compartilhando dos meus projetos desenvolvidos
+
+## Você pode entrar em contato comigo 📬
+
+0000107757700xsp@al.educacao.sp.gov.br 
 <!--
 **caiorossetto/caiorossetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
