@@ -1,4 +1,6 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 
+![image](https://github.com/caiorossetto/caiorossetto/assets/126481668/7267e92b-3bad-4639-bd17-d8ba195d4b81)
+👋
 
 <!--
 **caiorossetto/caiorossetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
